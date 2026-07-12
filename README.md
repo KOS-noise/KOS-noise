@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Sim Sodam
 
-Keep learning & implementing into projects.
+All software must begin with good intent — and that requires true excellence.
+
+좋은 의도로 시작하고, 한 걸음씩 성장하려고 노력하는 개발자 지망생
 
 ---
 
@@ -19,7 +21,26 @@ Keep learning & implementing into projects.
 
 ### 🔗 Blog & Links
 
+<div align="center">
+
 | | Link |
-| --- | --- |
-| 📝 Velog | [kosnoise](https://velog.io/@kosnoise/posts) |
+| :---: | :---: |
+| 🚀 Current Project | [sk-final-deepfake](https://github.com/sk-final-deepfake) |
 | 📖 Tistory | [content01449](https://content01449.tistory.com/) |
+| 📝 Velog | [kosnoise](https://velog.io/@kosnoise/posts) |
+
+</div>
+
+---
+
+### 💼 Projects
+
+<div align="center">
+
+| Project | What I did | Link |
+| :---: | :---: | :---: |
+| **ForenShield AI** | 인프라 엔지니어 · 백엔드 JWT 인증·권한 설정 · HLS 영상 암호화 시스템 개발 · AI 위변조 탐지 모델 성능 개선 | [GitHub](https://github.com/sk-final-deepfake) |
+| **HR 사내 시스템** | S3 이력서 업로드 · LLM API 기반 이력서 자동 분석(ATS) 개발, PDF 임베드 기능 구현 | [GitHub](https://github.com/Miniproject-management) |
+| **E-commerce 웹쇼핑몰** | 문의/리뷰 페이지네이션 · 알림 기능 구현 | [Backend](https://github.com/KOS-noise/pjt3_Ecommerce_backend) · [Frontend](https://github.com/KOS-noise/pjt3_Ecommerce_frontend) |
+
+</div>

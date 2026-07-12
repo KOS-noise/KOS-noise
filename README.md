@@ -39,8 +39,8 @@ All software must begin with good intent — and that requires true excellence.
 
 | Project | What I did | Link |
 | :---: | :---: | :---: |
-| **ForenShield AI** | 인프라 엔지니어 · 백엔드 JWT 인증·권한 설정 · HLS 영상 암호화 시스템 개발 · AI 위변조 탐지 모델 성능 개선 | [GitHub](https://github.com/sk-final-deepfake) |
-| **HR 사내 시스템** | S3 이력서 업로드 · LLM API 기반 이력서 자동 분석(ATS) 개발, PDF 임베드 기능 구현 | [GitHub](https://github.com/Miniproject-management) |
-| **E-commerce 웹쇼핑몰** | 문의/리뷰 페이지네이션 · 알림 기능 구현 | [Backend](https://github.com/KOS-noise/pjt3_Ecommerce_backend) · [Frontend](https://github.com/KOS-noise/pjt3_Ecommerce_frontend) |
+| **ForenShield AI** | 인프라 엔지니어, 백엔드 JWT 인증·권한 설정, HLS 영상 암호화 시스템 개발, AI 위변조 탐지 모델 성능 개선 | [GitHub](https://github.com/sk-final-deepfake) |
+| **HR 사내 시스템** | LLM API 기반 이력서 자동 분석(ATS) 개발 및 S3 연동, PDF 임베드 기능 구현 | [GitHub](https://github.com/Miniproject-management) |
+| **E-commerce 웹쇼핑몰** | 문의/리뷰 페이지네이션, 알림 기능 구현 | [Backend](https://github.com/KOS-noise/pjt3_Ecommerce_backend) · [Frontend](https://github.com/KOS-noise/pjt3_Ecommerce_frontend) |
 
 </div>

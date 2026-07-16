@@ -2,7 +2,7 @@
 
 All software must begin with good intent — and that requires true excellence.
 
-좋은 의도로 시작하고, 한 걸음씩 성장하려고 노력하는 개발자 지망생
+좋은 의도로 시작하고, 한 걸음씩 성장하려고 노력하는.
 
 ---
 

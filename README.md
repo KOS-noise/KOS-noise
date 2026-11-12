@@ -26,7 +26,7 @@ All software must begin with good intent — and that requires true excellence.
 
 | | Link |
 | :---: | :---: |
-| 🚀 Current Project | [sk-final-deepfake](https://github.com/sk-final-deepfake) |
+| 🚀 Recent Project | [sk-final-deepfake](https://github.com/sk-final-deepfake) |
 | 📖 Tistory | [content01449](https://content01449.tistory.com/) |
 | 📝 Velog | [kosnoise](https://velog.io/@kosnoise/posts) |
 
